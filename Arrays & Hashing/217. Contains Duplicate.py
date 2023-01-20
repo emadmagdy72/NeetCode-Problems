@@ -13,7 +13,7 @@ class Solution(object):
                 set1.add(num)
         return False
 
-        #.....Another Solutinos.....#
+        #.....Another Solution.....#
         
         # len1 = len(nums)
         # len2 = len(set(nums))
