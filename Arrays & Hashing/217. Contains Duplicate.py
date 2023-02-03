@@ -13,14 +13,15 @@ class Solution(object):
                 set1.add(num)
         return False
 
-        #.....Another Solution.....#
-        
+        #------Another Solution------#
         # len1 = len(nums)
         # len2 = len(set(nums))
         # if(len1 == len2):
         #     return False
         # else:
         #     return True
+
+
 
 
 
